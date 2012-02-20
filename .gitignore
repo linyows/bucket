@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+test.*.js
+# config/*
+# !config/default.yaml.example
+# !config/development.yaml.example
+node_modules/*
+node_modules/.*
+temp/*
+!temp/empty
+!node_modules/empty

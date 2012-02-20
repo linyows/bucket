@@ -1,0 +1,12 @@
+{
+  "name"              : "bucket",
+  "version"           : "1.0.1",
+  "private"           : true,
+  "dependencies"      : {
+    "config"            : "latest",
+    "validator"         : "latest",
+    "knox"              : "latest",
+    "imagemagick"       : "latest",
+    "formidable"        : "latest"
+  }
+}
