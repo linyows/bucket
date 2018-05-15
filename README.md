@@ -1,5 +1,7 @@
 # bucket
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/linyows/bucket.svg)](https://greenkeeper.io/)
+
 <pre>
      __                              __                    __
     /  /__     ___   ___  ________  /  / ___   ______   __/  /_
